@@ -74,7 +74,12 @@ The AI agent takes **multi-modal inputs** (numerical ratings + free text) and pe
 
 ## 📸 App Screenshots
 
-> Daily Check-in → AI Analysis → Chat Companion → Wellness History
+<p align="center">
+  <img src="App-Interface/p3.jpg" width="24%">
+  <img src="App-Interface/p2.jpg" width="24%">
+  <img src="App-Interface/p4.jpg" width="24%">
+  <img src="App-Interface/p1.jpg" width="24%">
+</p>
 
 ---
 
