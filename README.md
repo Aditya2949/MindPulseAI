@@ -3,7 +3,6 @@
 > **AI-driven Mental Health Monitoring Platform** — Agents League Hackathon 2026
 
 ![MindPulseAI Banner](https://img.shields.io/badge/MindPulseAI-Mental%20Wellness%20Agent-7c6af7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=)
-![Built With](https://img.shields.io/badge/Built%20With-Claude%20AI-ff6b6b?style=for-the-badge)
 ![Track](https://img.shields.io/badge/Track-Reasoning%20Agents-22c55e?style=for-the-badge)
 ![Hackathon](https://img.shields.io/badge/Microsoft-Agents%20League%202026-0078d4?style=for-the-badge&logo=microsoft)
 
